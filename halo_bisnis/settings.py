@@ -25,7 +25,7 @@ SECRET_KEY = 'm=kq@o$^@a$7y)mhxif#qasyz@o5t&p3^q_91yeeq0!vp)69x)'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['127.0.0.1', 'localhost', 'api.halobisnis.id', 'www.api.halobisnis.id']
 
 
 # Application definition
