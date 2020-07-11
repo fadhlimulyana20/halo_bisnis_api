@@ -100,8 +100,8 @@ DATABASES = {
     # }
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'halo_bisnis_db',
-        'USER': 'halo_bisnis',
+        'NAME': 'halobisn_api',
+        'USER': 'halobisn_user',
         'PASSWORD': '@sapisapi123',
         'HOST': 'localhost',
         'PORT': '',
